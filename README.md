@@ -1,4 +1,4 @@
-## [JConsole을 이용한 Apache Kafka Monitoring 방법]
+## [Apache Kafka Broker 구성 및 JConsole을 이용한 Monitoring 방법]
 
 <br>
 

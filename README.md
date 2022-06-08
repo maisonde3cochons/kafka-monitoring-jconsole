@@ -1,6 +1,6 @@
 ## [JConsole을 이용한 Apache Kafka Monitoring 방법]
 
-<br><br>
+<br>
 
 ### [환경 구성도]
 ![image](https://user-images.githubusercontent.com/30817824/172519504-12f598b8-ab80-4c0f-8497-cb96ff9b393c.png)
